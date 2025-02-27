@@ -1,11 +1,11 @@
 👋 Hi, I’m Subrahmanya S Hegde
 
-🌱 I’m currently diving deep into Flutter, Node.js, Express.js, and MongoDB, exploring their versatility and building exciting projects.
+🌱 As a Java + XML app developer, I specialize in working with Flutter + Dart, Postman, Sqflite, Firebase, Supabase, OneSignal Push Notifications, API Integration, Google Maps, and Payment Gateways. I focus on creating seamless and efficient mobile and web applications.
 
-📸 Hobby: I'm passionate about videography, photography, and traveling to explore new places.🎥Follow my adventures and tech insights on YouTube! 👉 @SSHegde.Visuals
+📸 When I'm not coding, I enjoy videography, photography, and exploring new places through travel. 🎥 Check out my tech insights and travel adventures on YouTube! 👉 @SSHegde.Visuals
 
-💬 Let's collaborate on innovative app ideas or discuss the latest trends in mobile and web development!
+💬 I’m always open to collaborating on innovative app ideas or discussing the latest trends in mobile and web development!
 
-📫 You can reach me via subrahmanyahegde460@gmail.com
+📫 Feel free to reach out to me at subrahmanyahegde460@gmail.com
 
 😄 Pronouns: He/Him
