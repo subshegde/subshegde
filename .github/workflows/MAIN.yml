@@ -3,52 +3,48 @@ name: Generate Snake
 # Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-    # every 6 hours
+    # Every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    # Checks out the repository
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      # Step 2: Generate the Snake SVG
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}  # Use the repository owner's GitHub username dynamically
+          outputs: dist/github-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Ensure you use the GitHub token for authentication
 
-    # Generate the snake GIF and SVG
-    - name: Generate Snake GIF and SVG
-      uses: Platane/snk@v2.1.0  # Use stable release version instead of 'master'
-      id: snake-gif
-      with:
-        github_user_name: subshegde
-        gif_out_path: dist/github-contribution-grid-snake.gif
-        svg_out_path: dist/github-contribution-grid-snake.svg
+      # Step 3: Ensure that the dist directory exists
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
 
-    # Ensure dist directory exists before continuing
-    - name: Ensure dist directory exists
-      run: mkdir -p dist
+      # Step 4: Display the current git status (useful for debugging)
+      - run: git status
 
-    # Show the status of the build. Makes it easier for debugging (if there's any issues).
-    - run: git status
+      # Step 5: Push the generated SVG file to the "output" branch
+      - name: Push generated SVG to output branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output  # Push to the "output" branch, or modify to your desired branch
+          force: true
 
-    # Push the changes to the appropriate branch
-    - name: Push changes to GitHub
-      uses: ad-m/github-push-action@v0.6.0  # Use stable release version instead of 'master'
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: output  # Make sure you're pushing to the correct output branch
-        force: true
-
-    # Deploy the files to GitHub Pages (if needed)
-    - name: Deploy to GitHub Pages
-      uses: crazy-max/ghaction-github-pages@v2.1.3
-      with:
-        target_branch: output  # Make sure you're pushing to the correct output branch
-        build_dir: dist
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 6: Deploy the generated SVG to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output  # The branch to deploy to
+          build_dir: dist  # The directory where the generated SVG is located
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
