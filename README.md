@@ -37,7 +37,7 @@
 
 </div>
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools I've Worked On ⚒️</h2>
+<h2 align="center">⚒️ Languages, Frameworks, and Tools I've Worked With ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,kotlin,mongodb,postman,git,github" />
