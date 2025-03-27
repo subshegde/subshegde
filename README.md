@@ -35,20 +35,6 @@
   <img alt="snake eating my contributions" src="https://github.com/subshegde/subshegde/blob/output/github-snake.svg" />
   </div>
 
-  <h2 align="center">📦 My Published Packages on pub.dev 📦</h2>
-
-<div align="center">
-    <!-- Package 1 -->
-    <a href="https://pub.dev/packages/draggable_resizable_container" target="_blank">
-        <img src="https://img.shields.io/badge/-1-blue?style=flat-square" alt="0.0.1" style="vertical-align: middle; display: inline-block;"/>
-    </a>
-    <p style="display: inline-block; margin-left: 10px; vertical-align: middle;">Draggable Resizable Container</p>
-</div>
-
-
-
-
-
 <h2 align="center"> Contact Me </h2>
 <div align="center">
     <a href="mailto:subrahmanyahegde460@gmail.com">
@@ -64,15 +50,3 @@
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
 </div>
-
-
-### Example Code:
-To add this link to your GitHub README, you can use an anchor (`<a>`) tag to create a clickable link that will open the UPI app (PhonePe or others).
-
-<div align="center">
-<a href="upi://pay?pa=8296391957@ybl&pn=Subrahmanya+S+Hegde&amt=100" target="_blank">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PhonePe_logo.svg/512px-PhonePe_logo.svg.png" alt="PhonePe Payment" style="height: 50px !important;width: auto;">
-</a>
-<p>Donate via PhonePe</p>
-</div>
-
