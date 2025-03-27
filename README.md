@@ -45,7 +45,11 @@
 </div>
 
 <div align="center">
-    ![snake gif](https://github.com/subshegde/subshegde/blob/output/github-snake.svg)
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/subshegde/subshegde/blob/output/github-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 
