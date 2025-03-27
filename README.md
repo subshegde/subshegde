@@ -44,6 +44,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,python,javascript,c,cpp,java,mysql" /><br>
 </div>
 
+<div align="center">
+    ![snake gif](https://github.com/subshegde/subshegde/blob/output/github-snake.svg)
+</div>
 
 
-![snake gif](https://github.com/subshegde/subshegde/blob/output/github-snake.svg)
