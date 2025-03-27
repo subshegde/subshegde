@@ -10,4 +10,4 @@
 
 😄 Pronouns: He/Him
 
-![snake gif](https://github.com/subshegde/subshegde/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/subshegde/subshegde/blob/output/github-snake.svg)
