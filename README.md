@@ -39,10 +39,8 @@
 
 
 <h2 align="center">⚒️ Languages, Frameworks & Tools I've Worked On ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,java,mongodb,postman,api,vs code,androidstudio,paymentgateway,googlemaps,git,github,laravel,html,css,reactnative,sql,sqlite,mysql" />
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,mongodb,postman,git,github&perline=10)](https://skillicons.dev)
 
 
 
