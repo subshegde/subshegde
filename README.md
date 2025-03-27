@@ -37,7 +37,6 @@
 
 </div>
 
-
 <h2 align="center">⚒️ Languages, Frameworks & Tools I've Worked On ⚒️</h2>
 
 <div align="center">
