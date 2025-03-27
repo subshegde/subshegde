@@ -24,8 +24,8 @@
 <h2 align="center">⚒️ Languages, Frameworks, and Tools I've Worked With ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,kotlin,mongodb,postman,git,github" width="400" />
-    <img src="https://skillicons.dev/icons?i=html,css,python,javascript,c,cpp,java,mysql" width="400" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,kotlin,mongodb,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,javascript,c,cpp,java,mysql" />
 </div>
 <br/>
 
