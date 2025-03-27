@@ -4,16 +4,21 @@
 </h1>
 
 
-👋 Hi, I’m Subrahmanya S Hegde
+<h3 align="center">A passionate mobile app developer from India 🇮🇳</h3>
 
-🌱 As a Java + XML app developer, I specialize in working with Flutter + Dart, Postman, Sqflite, Firebase, Supabase, OneSignal Push Notifications, API Integration, Google Maps, and Payment Gateways. I focus on creating seamless and efficient mobile applications.
+<br/>
 
-📸 When I'm not coding, I enjoy videography, photography, and exploring new places through travel. 🎥 Check out my tech insights and travel adventures on YouTube! 👉 @SSHegde.Visuals
+<div align="center">
 
-💬 I’m always open to collaborating on innovative app ideas or discussing the latest trends in mobile and web development!
+ 🔭 I’m currently working on **mobile applications** at **Sanadi Technologies Private Limited**  
+ 
+ 🌱 I’m currently learning **Flutter, Firebase, Supabase, Google Maps API**
 
-📫 Feel free to reach out to me at subrahmanyahegde460@gmail.com
+💬 Ask me about **mobile app development**, **photography**, or anything [here](https://github.com/subshegde/subshegde/issues)
 
-😄 Pronouns: He/Him
+⚡ Fun fact: **I once captured the perfect sunset shot while traveling to a remote hilltop!**
+
+</div>
+
 
 ![snake gif](https://github.com/subshegde/subshegde/blob/output/github-snake.svg)
