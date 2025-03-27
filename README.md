@@ -25,7 +25,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,kotlin,mongodb,postman,git,github" />
-    <img src="https://skillicons.dev/icons?i=html,css,python,javascript,c,cpp,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,javascript,c,cpp,java,mysql,laravel" />
 </div>
 <br/>
 
