@@ -41,11 +41,9 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools I've Worked On ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,mongodb,postman,git,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,c++,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,kotlin,mongodb,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,javascript,c,cpp,java,mysql" /><br>
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 
 
