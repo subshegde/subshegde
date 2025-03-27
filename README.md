@@ -11,7 +11,7 @@
 
  🔭 I’m currently working on **mobile applications** at **Sanadi Technologies Private Limited**  
  
- 🌱 I’m currently learning **Flutter, Firebase, Supabase, Google Maps API**
+ 🌱 I’m currently learning **Node.js, MongoDB, React Native, Kotlin**
 
 💬 Ask me about **mobile app development**, **photography**, or anything [here](https://github.com/subshegde/subshegde/issues)
 
