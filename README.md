@@ -38,4 +38,12 @@
 </div>
 
 
+<h2 align="center">⚒️ Languages, Frameworks & Tools I've Worked On ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,xml,java,mongodb,supabase,postman,api,vs code,androidstudio,paymentgateway,googlemaps,git,github,laravel,html,css,reactnative,sql,sqlite,mysql" />
+</div>
+
+
+
 ![snake gif](https://github.com/subshegde/subshegde/blob/output/github-snake.svg)
