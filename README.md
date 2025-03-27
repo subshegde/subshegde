@@ -70,7 +70,7 @@
 To add this link to your GitHub README, you can use an anchor (`<a>`) tag to create a clickable link that will open the UPI app (PhonePe or others).
 
 <div align="center">
-<a href="upi://pay?pa=subrahmanya@upi&pn=Subrahmanya+S+Hegde&amt=100" target="_blank">
+<a href="upi://pay?pa=8296391957@ybl&pn=Subrahmanya+S+Hegde&amt=100" target="_blank">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PhonePe_logo.svg/512px-PhonePe_logo.svg.png" alt="PhonePe Payment" style="height: 50px !important;width: auto;">
 </a>
 <p>Donate via PhonePe</p>
