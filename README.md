@@ -34,11 +34,6 @@
   <img alt="snake eating my contributions" src="https://github.com/subshegde/subshegde/blob/output/github-snake.svg" />
   </div>
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/subshegde/subshegde/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/subshegde/subshegde/blob/output/github-snake.svg">
-</picture>
-
 
 <h2 align="center"> Contact Me </h2>
 <div align="center">
