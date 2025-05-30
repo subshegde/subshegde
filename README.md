@@ -19,7 +19,6 @@
 </div>
 <br/>
 
-
 <h2 align="center">⚒️ Languages, Frameworks, and Tools I've Worked With ⚒️</h2>
 
 <div align="center">
@@ -36,12 +35,10 @@
 
 <br/>
 
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://github.com/subshegde/subshegde/blob/output/github-snake.svg" />
-  </div>
-
+</div>
 
 <h2 align="center"> Contact Me </h2>
 <div align="center">
@@ -58,3 +55,33 @@
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
 </div>
+
+<br/>
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+
+<table align="center">
+  <tr>
+    <td style="padding: 10px;">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=subshegde&theme=default&hide_border=false"
+        alt="GitHub Streak Stats"
+      />
+    </td>
+    <td style="padding: 10px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=subshegde&layout=compact&theme=default&hide_border=true"
+        alt="Most Used Languages"
+      />
+    </td>
+    <td style="padding: 10px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=subshegde&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
