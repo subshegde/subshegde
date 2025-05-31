@@ -30,7 +30,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite,mongodb,postman,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite,mongodb,postman,git,github,vscode,androidstudio,postgres" />
 </div>
 
 <br/>
