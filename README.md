@@ -8,7 +8,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **mobile applications** at **Sanadi Technologies Private Limited**  
+ 🔭 I’m currently working on **mobile applications** at **Nuvo AI @Meril**  
  
  🌱 I’m currently learning **Node.js, MongoDB, React Native, Kotlin**
 
