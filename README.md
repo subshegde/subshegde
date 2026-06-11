@@ -18,7 +18,7 @@
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🚀 About Me</h3>
       <ul>
         <li>🔭 Currently engineering mobile solutions at <strong>Nuvo AI @Meril</strong>.</li>
@@ -26,9 +26,6 @@
         <li>💬 Let's talk about <strong>mobile architecture, photography, or state management</strong>! Open an issue <a href="https://github.com/subshegde/subshegde/issues">here</a>.</li>
         <li>⚡ <em>Fun Fact:</em> I once captured the perfect sunset shot while traveling to a remote hilltop! ⛰️📸</li>
       </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subshegde&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Most Used Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -105,6 +102,11 @@
     </td>
   </tr>
 </table>
+
+<!-- Optional Top Languages Card Call (Centered independently below metrics) -->
+<p align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subshegde&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Most Used Languages" />
+</p>
 
 <br/>
 
